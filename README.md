@@ -1,7 +1,7 @@
 ## 我的修改
 2016.3.12
 根目录下的pom.xml(dubbo-parent)
-"<spring.bom.version>4.1.4.RELEASE</spring.bom.version>"
+"spring.bom.version 4.1.4.RELEASE"
 
 ## 原来的内容
 Dubbox now means Dubbo eXtensions. If you know java, javax and dubbo, you know what dubbox is :)
