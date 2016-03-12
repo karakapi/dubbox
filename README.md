@@ -1,9 +1,9 @@
 ## 我的修改
 2016.3.12
 根目录下的pom.xml(dubbo-parent)
-<spring.bom.version>4.1.4.RELEASE</spring.bom.version>
+"<spring.bom.version>4.1.4.RELEASE</spring.bom.version>"
 
-
+## 原来的内容
 Dubbox now means Dubbo eXtensions. If you know java, javax and dubbo, you know what dubbox is :)
 
 Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the popular [dubbo service framework](http://github.com/alibaba/dubbo). It's been used by several projects of [dangdang.com](http://www.dangdang.com), which is one of the major e-commerce companies in China.
